@@ -9,9 +9,9 @@
 
 - 💬 Ask me about **Python | Django Development**
 
-- 📫 How to reach me **prashant.12band@gmail.com**
+- 📫 How to reach me **: prashant.12band@gmail.com**
 
-- ⚡ Fun fact **I can Play Guitar and Sing as well. I Like to Interact with people all over world, also have friends almost in every Continent(not Antarctica). U+1F642**
+- ⚡ Fun fact **: I can Play Guitar and Sing as well. I Like to Interact with people all over world**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
