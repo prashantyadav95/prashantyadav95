@@ -1,13 +1,13 @@
 
 <h1 align="center">Hi 👋, I am Prashant Kumar Yadav</h1>
-<h3 align="center">A passionate Python | Django developer from India</h3>
+<h3 align="center">A passionate Python Developer from India</h3>
 <img align="right" alt="coding" width="400" src="https://miro.medium.com/max/1050/1*IRGB-4OAoO8KSqH_huDPFw.png"
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prashantyadav95&label=Profile%20views&color=0e75b6&style=flat" alt="prashantyadav95" /> </p>
 
-- 🌱 I’m currently learning **Django, Python Development, Fullstack Development**
+- 🌱  **Python Development, Robotic Process Automation, AI powered Applications**
 
-- 💬 Ask me about **Python | Django Development**
+- 💬 Ask me about **Python Development, Automation, Machine Learning**
 
 - 📫 How to reach me **: prashant.12band@gmail.com**
 
